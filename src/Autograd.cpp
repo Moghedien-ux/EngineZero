@@ -1,5 +1,5 @@
 #include "../include/Autograd.hpp"
-#include <Algorithm>
+#include <algorithm>
 #include <unordered_set>
 #include <queue>
 
